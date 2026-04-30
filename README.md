@@ -34,6 +34,8 @@ Other content includes:
 - OpenAtMicrosoft X account
 - This repository
 
+Microsoft-internal information is available regarding the site at [https://docs.opensource.microsoft.com/community/in-public/public-site/](https://docs.opensource.microsoft.com/community/in-public/public-site/) (requires corporate authentication).
+
 # Contributing
 
 ## Code of Conduct
